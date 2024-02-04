@@ -67,7 +67,7 @@
 </script>
 
 <Drawer.Root bind:open>
-    <Button class="font-kalam text-xl h-12 rounded-md px-10"><Drawer.Trigger>OSA</Drawer.Trigger></Button>
+    <Button class="font-kalam text-xl h-12 rounded-md px-10"><Drawer.Trigger>OSA Här</Drawer.Trigger></Button>
     <Drawer.Content>
         <div class="w-full max-h-[450px] flex flex-col items-center justify-center p-4 font-kalam">
             <div class="max-w-[450px] w-full">
