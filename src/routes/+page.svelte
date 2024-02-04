@@ -33,7 +33,7 @@
     <div class="flex flex-col items-center h-full w-full">
         <div class="pt-20 w-4/5 flex flex-col items-center">
             <!-- <p class="text-4xl font-bold font-pacifico">Välkomna!</p> -->
-            <div class="text-2xl font-kalam pt-6 flex flex-col items-center">
+            <div class="text-2xl font-kalam pt-6 flex flex-col items-center text-center">
                 <p>Vi vill fira Klaras födelsedag ihop med er lördag den 2a mars kl. 13:00.</p>
                 <p class="mt-3">Vi bjuder på mat och tårta!</p>
                 <p class="mt-3">Kontakta oss om ni har några frågor om mat och allergier!</p>
