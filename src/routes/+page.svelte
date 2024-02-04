@@ -38,7 +38,7 @@
                 <p class="mt-3">Vi bjuder på mat och tårta!</p>
                 <p class="mt-3">Kontakta oss om ni har några frågor om mat och allergier!</p>
                 <p class="mt-3">Svara senast den 23e februari.</p>
-                <p class="mt-3">Var: Axvalls IF (Klubblokalen vi idrottsplanen).</p>
+                <p class="mt-3">Var: Axvalls IF (Klubblokalen vid idrottsplanen).</p>
             </div>
             <p class="font-pacifico mt-10 text-3xl">Hoppas vi ses!</p>
             <div class="mt-8">
