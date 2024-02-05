@@ -78,11 +78,11 @@
                     <Drawer.Description class="text-center text-xl">Här kan ni anmäla er.</Drawer.Description>
                 </Drawer.Header>
                 <div>
-                    <input type="radio" class="" name="attending" id="willAttend" checked bind:value={attending}>
+                    <input type="radio" class="" name="attending" id="willAttend" checked value="Yes">
                     <label for="willAttend">Vi kommer</label>
                 </div>
                 <div class="mt-2">
-                    <input type="radio" name="attending" id="willNotAttend" bind:value={attending}>
+                    <input type="radio" name="attending" id="willNotAttend" value="No">
                     <label for="willNotAttend">Tyvärr, vi kommer inte</label>
                 </div>
                 <div class="mt-4">
